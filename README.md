@@ -8,9 +8,13 @@ Repositorio para el control de la aplicación
 
 ## Nombre de la aplicación
 (Aun en discusión) 
+
 Propuestas: {
+
     **EventLinker**, 
+
     **EventConnect**, 
+    
     **PartiMatch**
 }
 
