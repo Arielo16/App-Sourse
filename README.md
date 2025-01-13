@@ -1,6 +1,11 @@
 # App-Sourse
 Repositorio para el control de la aplicación
 
+## Contribuyentes
+ - ENatsuD12 (https://github.com/ENatsuD12)
+ - JosueXD3940 (https://github.com/JosueXD3940)
+ - Arielo16 (https://github.com/Arielo16)
+
 ## Nombre de la aplicación
 (Aun en discusión) 
 Propuestas: {
